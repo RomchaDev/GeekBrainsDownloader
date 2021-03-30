@@ -1,0 +1,354 @@
+Course name found: Java Core. Базовый уровень
+Name 'Урок 1. Java. Введение' found (1 ms)
+Video link 70572 found (7 ms)
+Doc link 70572 found (4 ms)
+Video link 70573 found (2 ms)
+Doc link 70573 found (1 ms)
+Name 'Урок 2. Основные конструкции' found (1 ms)
+Doc link 70574 found (1 ms)
+Video link 70574 found (1 ms)
+Name 'Урок 3. Практика' found (1 ms)
+Video link 70575 found (1 ms)
+Doc link 70575 found (1 ms)
+Name 'Урок 4. Крестики-нолики в процедурном стиле' found (0 ms)
+Doc link 70576 found (0 ms)
+Video link 70576 found (0 ms)
+Name 'Урок 5. Введение в ООП' found (1 ms)
+Video link 70577 found (1 ms)
+Doc link 70577 found (1 ms)
+Name 'Урок 6. Продвинутое ООП' found (1 ms)
+Video link 70578 found (0 ms)
+Doc link 70578 found (0 ms)
+Name 'Урок 7. Практика ООП и работа со строками' found (1 ms)
+Video link 70579 found (0 ms)
+Doc link 70579 found (0 ms)
+Name 'Урок 8. Написание приложения с графическим интерфейсом' found (1 ms)
+doc Урок 1. Java. Введение downloaded (7462 ms)
+      link: https://docs.google.com/document/d/1zbo8fNRPDHNr6kJ9DJynn5Mi4_ncDYVAIF9pTFjngiI/export?format=pdf
+video Урок 1. Java. Введение downloaded (29735 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/63649/attachment/d7a312a959865dfc9e480cc2739f435f.mp4
+doc Урок 2. Основные конструкции downloaded (3387 ms)
+      link: https://docs.google.com/document/d/1Ewxcleh5IgFE1CEUGty5sr0_qH1BSonK3cuN6fpG4Io/export?format=pdf
+video Урок 2. Основные конструкции downloaded (34853 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/64008/attachment/af2d94a0692b29c9fa223cec7b5bc5f6.mp4
+Error while downloading video Урок 3. Практика:
+doc Урок 3. Практика downloaded (4843 ms)
+      link: https://docs.google.com/document/d/1dHxZd2wTRe4Kqo0cj4SnP1AZEYNzrxCQn2sg0C-0YFA/export?format=pdf
+doc Урок 4. Крестики-нолики в процедурном стиле downloaded (4700 ms)
+      link: https://docs.google.com/document/d/1Rk_xwF65CJvJ0mzxVO1LOSM4I-5DBdOqub0TWXfflls/export?format=pdf
+video Урок 4. Крестики-нолики в процедурном стиле downloaded (33390 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/65107/attachment/579774594b8b7dd25eb9e205b950ffa0.mp4
+doc Урок 5. Введение в ООП downloaded (5925 ms)
+      link: https://docs.google.com/document/d/11EhLrIXlloOmm5Znufff36RBkMnDwLSkS-L2BeUqX7k/export?format=pdf
+video Урок 5. Введение в ООП downloaded (37290 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/65807/attachment/258f0f7b02a62aa01e34bcd4b5987bec.mp4
+doc Урок 6. Продвинутое ООП downloaded (4270 ms)
+      link: https://docs.google.com/document/d/1EKdUfBQ9snU8gSgCUWFALke1b5p46A_Iq9Xgn2X2myo/export?format=pdf
+video Урок 6. Продвинутое ООП downloaded (23312 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/66164/attachment/9415505bfcbed1ba8d5e108401367a15.mp4
+doc Урок 7. Практика ООП и работа со строками downloaded (2855 ms)
+      link: https://docs.google.com/document/d/1HxvN5jvGyRJ_b_LspE2kEmg7fw24SQdyCnJu7OQSGQ8/export?format=pdf
+video Урок 7. Практика ООП и работа со строками downloaded (29441 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/66502/attachment/b49ab645f323c5be9fde78170d74cf2a.mp4
+Error while downloading video Урок 8. Написание приложения с графическим интерфейсом:
+doc Урок 8. Написание приложения с графическим интерфейсом downloaded (3997 ms)
+      link: https://docs.google.com/document/d/1x8x3rFxZ4a64gMi9EwNnodgrlIM3hRn6y_QlQ8vjiuE/export?format=pdf
+Course Java Core. Базовый уровень downloaded (203296 ms)
+Course name found: Java Core. Продвинутый уровень
+Video link 75121 found (1 ms)
+Name 'Урок 1. Объектно-ориентированное программирование Java' found (0 ms)
+Doc link 75121 found (0 ms)
+Video link 75122 found (1 ms)
+Doc link 75122 found (0 ms)
+Name 'Урок 2. Исключения' found (0 ms)
+Video link 75123 found (0 ms)
+Doc link 75123 found (0 ms)
+Name 'Урок 3. Коллекции' found (1 ms)
+Video link 75124 found (0 ms)
+Doc link 75124 found (0 ms)
+Name 'Урок 4. Продвинутые вопросы создания графического интерфейса' found (0 ms)
+Video link 75125 found (0 ms)
+Doc link 75125 found (1 ms)
+Name 'Урок 5. Многопоточность' found (1 ms)
+Video link 75126 found (1 ms)
+Doc link 75126 found (1 ms)
+Name 'Урок 6. Работа с сетью' found (1 ms)
+Video link 75127 found (1 ms)
+Doc link 75127 found (1 ms)
+Name 'Урок 7. Написание сетевого чата. Часть I' found (1 ms)
+Video link 75128 found (0 ms)
+Doc link 75128 found (0 ms)
+Name 'Урок 8. Написание сетевого чата. Часть II' found (0 ms)
+doc Урок 1. Объектно-ориентированное программирование Java downloaded (14297 ms)
+      link: https://docs.google.com/document/d/1JNCT8xl2P3t58rRUf6h7qSMdCquvwiQBWzhDXy2OP_Q/export?format=pdf
+video Урок 1. Объектно-ориентированное программирование Java downloaded (21281 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/66671/attachment/703566fe88d72777a2aad00b76263e8d.mp4
+doc Урок 2. Исключения downloaded (5065 ms)
+      link: https://docs.google.com/document/d/1SIipTpmJDytx7jlOiimmAptrLGU-rHBbR4JR0ZgvEQ4/export?format=pdf
+video Урок 2. Исключения downloaded (14682 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/67004/attachment/b069261343477bc8108bd84bca9275c8.mp4
+doc Урок 3. Коллекции downloaded (6008 ms)
+      link: https://docs.google.com/document/d/1hXGjJqDdzZs6OcbJro5m280Vfc4RPT_YqVlnQXkqTbs/export?format=pdf
+video Урок 3. Коллекции downloaded (21779 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/67363/attachment/2910487e62776d0676f44783088d3f20.mp4
+doc Урок 4. Продвинутые вопросы создания графического интерфейса downloaded (6389 ms)
+      link: https://docs.google.com/document/d/1wr0YEtIc5yZtKFu-KITqYnBtp8KC28v2FEYUANL0YAM/export?format=pdf
+video Урок 4. Продвинутые вопросы создания графического интерфейса downloaded (16695 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/67717/attachment/5155847bb639f9d4fdea01fb04f8fe0b.mp4
+doc Урок 5. Многопоточность downloaded (4683 ms)
+      link: https://docs.google.com/document/d/1OIUh4AITlG5NHr7OLB0mM8LBEM67USWdMGBIPTO7P8E/export?format=pdf
+video Урок 5. Многопоточность downloaded (18067 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/68059/attachment/94293dbaf66d87bc40c5fdba9d16172b.mp4
+doc Урок 6. Работа с сетью downloaded (4042 ms)
+      link: https://docs.google.com/document/d/1TJqMU_B68ojw0MUeqsNMBujSJRsKjoprKuhokdfEXmI/export?format=pdf
+video Урок 6. Работа с сетью downloaded (17244 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/68452/attachment/97c58f0a1317f432a9db4341d35050b5.mp4
+doc Урок 7. Написание сетевого чата. Часть I downloaded (2867 ms)
+      link: https://docs.google.com/document/d/1NBI6TRnk3RZV1QfiHZW3Wj8vM1XNzF7RUrWl-G3U6WE/export?format=pdf
+video Урок 7. Написание сетевого чата. Часть I downloaded (16501 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/68810/attachment/5e0b63cf05026acb65ea7d9caa504532.mp4
+doc Урок 8. Написание сетевого чата. Часть II downloaded (2251 ms)
+      link: https://docs.google.com/document/d/1nrJ1qj7h-LnF8jehmIg2Kw1CJAN2Bvi7aNuccOa4C8E/export?format=pdf
+video Урок 8. Написание сетевого чата. Часть II downloaded (15843 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/69112/attachment/b1649be230b3459b94c78c7935c39bdf.mp4
+Course Java Core. Продвинутый уровень downloaded (148444 ms)
+Course name found: Java Core. Профессиональный уровень
+Video link 76845 found (0 ms)
+Doc link 76845 found (0 ms)
+Name 'Урок 1. Обобщения' found (0 ms)
+Video link 76846 found (0 ms)
+Doc link 76846 found (1 ms)
+Name 'Урок 2. Базы данных' found (0 ms)
+Video link 76847 found (1 ms)
+Doc link 76847 found (0 ms)
+Name 'Урок 3. Средства ввода-вывода' found (0 ms)
+Doc link 76848 found (0 ms)
+Name 'Урок 4. Многопоточность. Часть I' found (0 ms)
+Video link 76848 found (0 ms)
+Video link 76849 found (1 ms)
+Doc link 76849 found (1 ms)
+Name 'Урок 5. Многопоточность. Часть II' found (0 ms)
+Video link 76850 found (0 ms)
+Doc link 76850 found (0 ms)
+Name 'Урок 6. Обзор средств разработки' found (0 ms)
+Video link 76851 found (1 ms)
+Doc link 76851 found (1 ms)
+Name 'Урок 7. Reflection API и аннотации' found (1 ms)
+Video link 76852 found (0 ms)
+Name 'Урок 8. Подготовка к собеседованию' found (1 ms)
+Doc link 76852 found (1 ms)
+doc Урок 1. Обобщения downloaded (4235 ms)
+      link: https://docs.google.com/document/d/17Bby7u7H4QP2RMihUpoHUXqFpSX4gUUz5Bs0pqhj2lw/export?format=pdf
+video Урок 1. Обобщения downloaded (19974 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/70031/attachment/77074cd2fd3b2dc7b4acafcd3ec169da.mp4
+doc Урок 2. Базы данных downloaded (2507 ms)
+      link: https://docs.google.com/document/d/1doS5-edcsV_ACX3Kr6zbYoxzk0QRzHJyd-tVc0il1v8/export?format=pdf
+video Урок 2. Базы данных downloaded (27849 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/70436/attachment/13c29083f11dd9e86dc81968acd6ef78.mp4
+doc Урок 3. Средства ввода-вывода downloaded (6469 ms)
+      link: https://docs.google.com/document/d/1EWPYpr4hqrRM9NTlAWd5G1yyJkDmZ29Fg9TQdWSMx8c/export?format=pdf
+video Урок 3. Средства ввода-вывода downloaded (25272 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/70825/attachment/49be52d743f2c3a8e1849fc416a9373d.mp4
+doc Урок 4. Многопоточность. Часть I downloaded (3674 ms)
+      link: https://docs.google.com/document/d/1C2NAhv59OPKFSwQp-aD518Oj9PYrgYGF7FLdbC-4tPw/export?format=pdf
+video Урок 4. Многопоточность. Часть I downloaded (19981 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/71640/attachment/9db946b5f13698dca6d41b9aa95b6952.mp4
+doc Урок 5. Многопоточность. Часть II downloaded (3437 ms)
+      link: https://docs.google.com/document/d/1PBKsib39FP7kveIEsh3JHU1eZWv5kMf6EnJPpA1M8hg/export?format=pdf
+video Урок 5. Многопоточность. Часть II downloaded (25730 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/72030/attachment/590a22c2a3e4115e9c25af6fce5c2509.mp4
+doc Урок 6. Обзор средств разработки downloaded (3784 ms)
+      link: https://docs.google.com/document/d/1262etkXMp-Hi6QdpqItceqR7fZqUQ8wgvvefOoNaRWI/export?format=pdf
+video Урок 6. Обзор средств разработки downloaded (25498 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/72463/attachment/ef8096976360d48307a2c4c2bd8bf940.mp4
+doc Урок 7. Reflection API и аннотации downloaded (3869 ms)
+      link: https://docs.google.com/document/d/1GLa4cSP1CxnNhBoFEirzca9rCEojbLvLlgkxFC8bj-U/export?format=pdf
+video Урок 7. Reflection API и аннотации downloaded (17972 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/72837/attachment/43869fb88a49dacdf7597b50405364cb.mp4
+Error while downloading doc Урок 8. Подготовка к собеседованию:
+video Урок 8. Подготовка к собеседованию downloaded (20580 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/73282/attachment/a3bdaa5d84189f9bf4388f4f04999e58.mp4
+Course Java Core. Профессиональный уровень downloaded (188968 ms)
+Course name found: Android. Базовый уровень
+Video link 84908 found (1 ms)
+Doc link 84908 found (1 ms)
+Name 'Урок 1. Android. Первое приложение, пользовательские элементы' found (1 ms)
+Video link 84909 found (1 ms)
+Name 'Урок 2. Макеты приложения. Отладка' found (0 ms)
+Doc link 84909 found (1 ms)
+Video link 84910 found (0 ms)
+Doc link 84910 found (0 ms)
+Name 'Урок 3. Жизненный цикл Activity. Сохранение состояния' found (1 ms)
+Video link 84911 found (0 ms)
+Doc link 84911 found (0 ms)
+Name 'Урок 4. Компоненты приложения. Интенты' found (0 ms)
+Video link 84912 found (0 ms)
+Doc link 84912 found (1 ms)
+Name 'Урок 5. Фрагменты' found (1 ms)
+Video link 84913 found (0 ms)
+Doc link 84913 found (0 ms)
+Name 'Урок 6. Списковые элементы пользовательского интерфейса' found (0 ms)
+Video link 84914 found (1 ms)
+Doc link 84914 found (0 ms)
+Name 'Урок 7. Материальный дизайн' found (0 ms)
+Video link 84915 found (0 ms)
+Doc link 84915 found (1 ms)
+Name 'Урок 8. Выход в интернет' found (1 ms)
+doc Урок 1. Android. Первое приложение, пользовательские элементы downloaded (10035 ms)
+      link: https://docs.google.com/document/d/18Y93WN1-1JGPtsoNk9SiWkNgZcPi2qX_6D_Gkz825AQ/export?format=pdf
+video Урок 1. Android. Первое приложение, пользовательские элементы downloaded (20804 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/75024/attachment/9a2ed726c7d359bf00d4f684be95bf98.mp4
+doc Урок 2. Макеты приложения. Отладка downloaded (9797 ms)
+      link: https://docs.google.com/document/d/17m_rVNYNcnwylxa-kl2EaA4IkfV4bN4Ha59UH2sousc/export?format=pdf
+video Урок 2. Макеты приложения. Отладка downloaded (30229 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/75490/attachment/645228e26c48aa2a86dab7c1bebbab0e.mp4
+doc Урок 3. Жизненный цикл Activity. Сохранение состояния downloaded (6765 ms)
+      link: https://docs.google.com/document/d/1tEyJh9Ryb9UioeKQYHp3dWLovjqyP46yUtVv6_dCc-w/export?format=pdf
+video Урок 3. Жизненный цикл Activity. Сохранение состояния downloaded (19045 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/75946/attachment/a3669c94c919bcdbc8d17ee6e35a96e7.mp4
+doc Урок 4. Компоненты приложения. Интенты downloaded (8230 ms)
+      link: https://docs.google.com/document/d/1FVSOKES7xvE1zRZXJFoO7c_WmQZqv2iXGZYhTRYeU-s/export?format=pdf
+video Урок 4. Компоненты приложения. Интенты downloaded (17762 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/76519/attachment/9249b5a1a61c90c7edc7ada4783de733.mp4
+doc Урок 5. Фрагменты downloaded (8981 ms)
+      link: https://docs.google.com/document/d/1Fr618qFnUA9v2re-R1MZbGNCOx6JBKLOT-xA8NLHtwQ/export?format=pdf
+video Урок 5. Фрагменты downloaded (21556 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/76955/attachment/9df47ee58d400a72e9c42d1db1bf9dd2.mp4
+doc Урок 6. Списковые элементы пользовательского интерфейса downloaded (7738 ms)
+      link: https://docs.google.com/document/d/1OQtQNkxWGKaetnAMOb1IcKMB2K52XfS_Uo0N7P2-0wo/export?format=pdf
+video Урок 6. Списковые элементы пользовательского интерфейса downloaded (26037 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/77407/attachment/dc7cc8de55d033563adb7180e737761a.mp4
+doc Урок 7. Материальный дизайн downloaded (7849 ms)
+      link: https://docs.google.com/document/d/1wK24DnO1B4GPFc4yql9L9sSi4LY3O7GqfUmf5gNavqo/export?format=pdf
+video Урок 7. Материальный дизайн downloaded (28966 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/77997/attachment/fefb3dbc41323baf6bf9d1f151a6a1ab.mp4
+doc Урок 8. Выход в интернет downloaded (6680 ms)
+      link: https://docs.google.com/document/d/1IW1Z1mpYuH_d6U4891IBzP8Oyy7_voWoaI1SQFI7wC8/export?format=pdf
+video Урок 8. Выход в интернет downloaded (22249 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/78459/attachment/9ae413bf39aac76b5e9bb6c2de967fda.mp4
+Course Android. Базовый уровень downloaded (195903 ms)
+Course name found: Android. Продвинутый уровень
+Video link 92258 found (0 ms)
+Doc link 92258 found (1 ms)
+Name 'Урок 1. Материальный дизайн. Меню. Навигация по приложению' found (1 ms)
+Video link 92259 found (0 ms)
+Doc link 92259 found (0 ms)
+Name 'Урок 2. Жизненный цикл View. Создание View. Вызов телефонного номера. Датчики' found (1 ms)
+Video link 92260 found (0 ms)
+Doc link 92260 found (1 ms)
+Name 'Урок 3. Многопоточность' found (1 ms)
+Video link 92261 found (0 ms)
+Name 'Урок 4. Продвинутая работа с сетью' found (0 ms)
+Doc link 92261 found (0 ms)
+Video link 92262 found (0 ms)
+Doc link 92262 found (0 ms)
+Name 'Урок 5. Room, Content Provider, Shared Preferences' found (0 ms)
+Video link 92263 found (1 ms)
+Doc link 92263 found (1 ms)
+Name 'Урок 6. Широковещательные сообщения, push-уведомления' found (0 ms)
+Doc link 92264 found (1 ms)
+Name 'Урок 7. Позиционирование и GoogleMaps API' found (1 ms)
+Video link 92264 found (1 ms)
+Video link 92265 found (1 ms)
+Doc link 92265 found (1 ms)
+Name 'Урок 8. Типы построения приложения. Аутентификация приложения через Google. Публикация приложения' found (1 ms)
+doc Урок 1. Материальный дизайн. Меню. Навигация по приложению downloaded (5924 ms)
+      link: https://docs.google.com/document/d/1vSSmIpP5gzkzdej9liwkofvA3f_QFQgYkqorXQWayFI/export?format=pdf
+video Урок 1. Материальный дизайн. Меню. Навигация по приложению downloaded (26417 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/79583/attachment/2e456a0bd3445aaee056361959df5f67.mp4
+doc Урок 2. Жизненный цикл View. Создание View. Вызов телефонного номера. Датчики downloaded (10567 ms)
+      link: https://docs.google.com/document/d/1hVFLe8ib5ji1wna4od_UsVK6X2lfsod-3gP3itfLG4E/export?format=pdf
+video Урок 2. Жизненный цикл View. Создание View. Вызов телефонного номера. Датчики downloaded (28182 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/80203/attachment/1f3d09c5c3bd8331e2450ea8dd3cb5b0.mp4
+doc Урок 3. Многопоточность downloaded (9572 ms)
+      link: https://docs.google.com/document/d/11qe_eVycvpuyl9TgJkQI8zby-oB0wweWGzrKINDFmAQ/export?format=pdf
+video Урок 3. Многопоточность downloaded (26178 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/80826/attachment/13545bceb8a8a615f67dac211c8d6c52.mp4
+doc Урок 4. Продвинутая работа с сетью downloaded (6610 ms)
+      link: https://docs.google.com/document/d/1KJM5quT1_jmpKX1HhQv-aT1zjC9gLS6ovMmnp02fD4A/export?format=pdf
+video Урок 4. Продвинутая работа с сетью downloaded (24308 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/81467/attachment/0ad3d014e1508175362aaecf96fccf38.mp4
+doc Урок 5. Room, Content Provider, Shared Preferences downloaded (17127 ms)
+      link: https://docs.google.com/document/d/1OFzNQ9DmC2sovBKY7n9sJFdTdofVLvwgISR0g9IHch0/export?format=pdf
+video Урок 5. Room, Content Provider, Shared Preferences downloaded (29583 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/82004/attachment/245d5cef8f6fd214a54fc8715fc141ab.mp4
+doc Урок 6. Широковещательные сообщения, push-уведомления downloaded (4867 ms)
+      link: https://docs.google.com/document/d/1KLfKxSCvWXkfbP6kkZN11x1Pi3soGPhagtVc6FUXm-Q/export?format=pdf
+video Урок 6. Широковещательные сообщения, push-уведомления downloaded (25752 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/82667/attachment/6926379e2ae840026d72fc9dbf6d8f55.mp4
+doc Урок 7. Позиционирование и GoogleMaps API downloaded (7763 ms)
+      link: https://docs.google.com/document/d/1h_E654IiJ5n_1GdVWorYSp1RzR7pxzjU-3t5cnEx2mE/export?format=pdf
+video Урок 7. Позиционирование и GoogleMaps API downloaded (29058 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/83215/attachment/d496da8ad823779c43810c1d4bd55dd9.mp4
+doc Урок 8. Типы построения приложения. Аутентификация приложения через Google. Публикация приложения downloaded (7172 ms)
+      link: https://docs.google.com/document/d/1ND-0gzmNAzjfRGbfm7tDQGp__CyU8Xc8QRLt8XENLbE/export?format=pdf
+video Урок 8. Типы построения приложения. Аутентификация приложения через Google. Публикация приложения downloaded (23292 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/83854/attachment/c141e0e0cac446d6e40c25c52c2ce9c1.mp4
+Course Android. Продвинутый уровень downloaded (218776 ms)
+Course name found: Программирование на Kotlin под Android 
+Video link 105777 found (0 ms)
+Name 'Урок 1. Введение' found (1 ms)
+Doc link 105777 found (1 ms)
+Video link 105778 found (1 ms)
+Doc link 105778 found (1 ms)
+Name 'Урок 2. Классы и функции' found (1 ms)
+Video link 105779 found (1 ms)
+Doc link 105779 found (1 ms)
+Name 'Урок 3. Основные конструкции' found (1 ms)
+Video link 105780 found (0 ms)
+Name 'Урок 4. Типы и интерфейсы' found (0 ms)
+Doc link 105780 found (0 ms)
+Name 'Урок 5. Функции и лямбда-выражения' found (1 ms)
+Doc link 105781 found (1 ms)
+Video link 105781 found (1 ms)
+Video link 105782 found (0 ms)
+Doc link 105782 found (0 ms)
+Name 'Урок 6. Полезные библиотеки' found (1 ms)
+Video link 105783 found (1 ms)
+Doc link 105783 found (1 ms)
+Name 'Урок 7. Тестирование приложений на Kotlin' found (1 ms)
+Name 'Урок 8. Kotlin Coroutines' found (1 ms)
+Doc link 105784 found (1 ms)
+Video link 105784 found (1 ms)
+doc Урок 1. Введение downloaded (4413 ms)
+      link: https://docs.google.com/document/d/1SlKapJ78sj6grZVpF_F1X_QE9yklkktJG07ijHnRytk/export?format=pdf
+video Урок 1. Введение downloaded (21672 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/90473/attachment/888bd01fb86f2c8f124c265c7810091f.mp4
+doc Урок 2. Классы и функции downloaded (4909 ms)
+      link: https://docs.google.com/document/d/1ydL6vgavFxBR9wmBxFZk0QL4BF_y_yNVZRBayyKfRGc/export?format=pdf
+video Урок 2. Классы и функции downloaded (35060 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/91828/attachment/7e9b97dc2297979a1698c8d370535002.mp4
+doc Урок 3. Основные конструкции downloaded (7410 ms)
+      link: https://docs.google.com/document/d/1DisPBnEoXQVhPzJYeDNq-XiBvi9KoyJcrgt0Criim1I/export?format=pdf
+video Урок 3. Основные конструкции downloaded (39045 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/92622/attachment/2250ecd94c3de32a0a211d1e9f26c30d.mp4
+doc Урок 4. Типы и интерфейсы downloaded (6695 ms)
+      link: https://docs.google.com/document/d/1iysCNQ-GFoa2b0ayJ2odSOLkFNwR5q2GWVyjWbFv-6w/export?format=pdf
+video Урок 4. Типы и интерфейсы downloaded (33545 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/93324/attachment/1ea7ce2789b8db12aefb64a982bf2cad.mp4
+Error while downloading video Урок 5. Функции и лямбда-выражения:
+doc Урок 5. Функции и лямбда-выражения downloaded (5971 ms)
+      link: https://docs.google.com/document/d/1yV1RrtuwqEELkYIn3LAbmWsJJD8xV04MDpZqce484N0/export?format=pdf
+doc Урок 6. Полезные библиотеки downloaded (9957 ms)
+      link: https://docs.google.com/document/d/1CjKNerYw_dZzeQlRNaue_z6n51uhXdtIAiXlczE0gXc/export?format=pdf
+video Урок 6. Полезные библиотеки downloaded (36332 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/94896/attachment/e552cd82232e3c8f3d2072b4158b1b53.mp4
+doc Урок 7. Тестирование приложений на Kotlin downloaded (5200 ms)
+      link: https://docs.google.com/document/d/1VNTY_GugYbtbUXEXnYVP0JZVfCIOWxmWEtfP5hKHDrQ/export?format=pdf
+video Урок 7. Тестирование приложений на Kotlin downloaded (44403 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/95829/attachment/bb918aeda616d63b66427fc9a9149685.mp4
+doc Урок 8. Kotlin Coroutines downloaded (5940 ms)
+      link: https://docs.google.com/document/d/1P9lVTwL5ZvL4H--GSa4Nll1hhDy9bh56r1aHn-Mbo_g/export?format=pdf
+video Урок 8. Kotlin Coroutines downloaded (34070 ms)
+      link: https://d2xzmw6cctk25h.cloudfront.net/record/96684/attachment/6556b8f9ea7902583fc373362bc36f0a.mp4
+Course Программирование на Kotlin под Android  downloaded (257218 ms)
+Total time: 1212667 ms
+
+****************************************************************************************************
+
+Failures:
+
+Error while downloading video Урок 3. Практика:
+Error while downloading video Урок 8. Написание приложения с графическим интерфейсом:
+Error while downloading doc Урок 8. Подготовка к собеседованию:
+Error while downloading video Урок 5. Функции и лямбда-выражения:
