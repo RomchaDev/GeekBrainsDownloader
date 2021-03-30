@@ -1,0 +1,3 @@
+package info_html_getters
+
+interface IHtmlGetter
